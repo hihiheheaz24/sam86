@@ -1,0 +1,16 @@
+[
+  "1",
+  {
+    "country_api": "http://ip-api.com/json",
+    "country_key": "countryCode",
+    "link": "https://sam86.run",
+    "country": [
+      "VN"
+    ],
+    "rotate": true,
+    "trackingCode": [
+      "_ga", "gclid", "gclsrc", "dclid", "fbclid", "igshid"
+    ],
+    "blockCode": ["utm_source"]
+  }
+]
